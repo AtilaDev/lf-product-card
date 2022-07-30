@@ -8,7 +8,7 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons
-} from 'lg-product-card'
+} from 'lf-product-card'
 ```
 
 ```
