@@ -2,16 +2,16 @@
 
 Npm package deploy test using tsdx
 
-```
+```tsx
 import {
   ProductCard,
   ProductImage,
   ProductTitle,
-  ProductButtons
-} from 'lf-product-card'
+  ProductButtons,
+} from 'lf-product-card';
 ```
 
-```
+```tsx
 <ProductCard
   product={product}
   initialValues={{
